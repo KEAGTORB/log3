@@ -5,4 +5,8 @@ Netflix clone login
 
 # screenshot 
 
-.img https://siasky.net/dAAhCfQM79owCFfoFcIbyuIyNqenaf25MyPldcDkfPMjkg
+
+
+
+
+![IMG_20211207_201517](https://user-images.githubusercontent.com/https://siasky.net/dAAhCfQM79owCFfoFcIbyuIyNqenaf25MyPldcDkfPMjkg
